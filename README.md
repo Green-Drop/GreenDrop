@@ -14,7 +14,8 @@
 > 다음과 같은 문제 상황 속에서 플라스틱 컵 전용 수거함에 넛지 효과를 불러 일으키기위한 수단으로 밸런스 게임을 접목하여 사용자로 하여금 플라스틱 컵을 투표수단으로 사용하여 자연스럽게 분리배출을 할 수 있도록 유도하는 프로젝트를 기획하였습니다.
 
 ### LOGO
-![logo192](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/01b95efa-c9bd-4d99-a6bc-7124c6040dec)
+![logo](https://github.com/Green-Drop/GreenDrop/assets/107913312/9512d1bf-da0c-456e-b337-1b0553f44fb1)
+
 
 # 👯 2. 팀원 소개
 |김장호|이대건|이승현|조영헌|천원준|최경인|
@@ -43,10 +44,10 @@
 # 📂 5. 화면 구성
 > FIGMA
 
-![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/5d0bd6e0-6a7b-4660-83bf-29648fcfe4a2)
+![figma](https://github.com/Green-Drop/GreenDrop/assets/107913312/326b2187-5de2-450c-b918-3c06f0607dd2)
 
 # 📃 4. ERD
-![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/c92f9905-5330-4e8c-836d-5f2d3635a290)
+![erd](https://github.com/Green-Drop/GreenDrop/assets/107913312/a7004e5b-04ab-4f5a-a03e-c3a5d5834111)
 
 # ♻️ 6. 서비스 소개
 ### 🥤 플라스틱 컵 분리수거 함
@@ -57,15 +58,17 @@
 ### :earth_asia: Greeen Drop Ver. 1
 > 아두이노 + 라즈베리파이 + 무게센서
 
-![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/24a6d16a-e7d9-48dd-a9ea-81ebdd35f901)
+![v1](https://github.com/Green-Drop/GreenDrop/assets/107913312/9ccbabb7-7f1b-47d5-8df4-a7794fd7dafe)
+
 ### :earth_asia: Green Drop Ver. 2
 > 아두이노 + 노트북(AI) + 웹캠2개(side view)
 
-![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/d0e95168-f700-4bdb-a42c-a860a93705b3)
+![v2](https://github.com/Green-Drop/GreenDrop/assets/107913312/e9617533-23cc-4526-8ac5-7003ce9df917)
+
 ### :earth_asia: Green Drop Ver. 3
 > 아두이노 + 라즈베리파이(AI) + 웹캠1개(top view)
 
-![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/03ee4b41-f8e0-4b32-a996-68f269ee290d)
+![v3](https://github.com/Green-Drop/GreenDrop/assets/107913312/9e4b745d-4f8f-49a3-bf99-46b75a2da82d)
 
 ### 📱 웹 서비스
 - 서비스 소개 
@@ -79,4 +82,4 @@
 ### 🔑 관리자 페이지
 - 수거 현황 대시보드, 밸런스 게임 관리, 카테고리 관리, 관리자 계정 관리(최고 관리자), 비밀번호 변경(일반 관리자)
 
-![scrnli_2023-8-25-오후-5-16-43](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/3ef870c5-0360-44f3-aa2d-9f32f3331b3f)
+![admin](https://github.com/Green-Drop/GreenDrop/assets/107913312/952f55e7-c2dc-4639-bbf8-b3fff14f47c2)
